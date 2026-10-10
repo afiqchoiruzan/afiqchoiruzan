@@ -52,7 +52,7 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects & Writeups
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
