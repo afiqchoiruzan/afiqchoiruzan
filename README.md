@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Afiq Choiruzan 👋
+# Hi there, I'm M Afiq M Choiruzan 👋
 ### Information Engineering Student | Data & AI Enthusiast
 
 <a href="https://git.io/typing-svg">
@@ -68,7 +68,7 @@
 
 ---
 
-### 🚀 Projects & Writeups
+### 🚀 Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
