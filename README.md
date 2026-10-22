@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Afiq Mirza Choiruzan 👋
+# Hi there, I'm Muhammad Afiq Mirza Choiruzan
 ### Undergraduate Information Engineering Student at UGM | Data Science, Machine Learning & Systems
 
 <p align="center">
@@ -26,10 +26,19 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Undergraduate Information Engineering Student** at **Universitas Gadjah Mada (UGM)** with a keen interest in **Data Science, Applied Machine Learning, Edge AI, and Scalable Backend Systems**.
-- 📊 **Hands-On with Data & Machine Learning:** Experienced in end-to-end data pipelines, competitive hydrological time-series forecasting (*CatBoost, LightGBM, HydroRIVERS, RMSE 1.4466*), and spatial analytics with OpenStreetMap (*custom K-Means from scratch, Shannon Entropy index*).
+- 📊 **Data Science & ML Engineering:** Hands-on experience developing competitive time-series water forecasting pipelines (*CatBoost, LightGBM, HydroRIVERS, RMSE 1.4466*) and urban spatial analytics with OpenStreetMap (*custom K-Means from scratch, Shannon Entropy index*).
 - ⚡ **Edge AI & Computer Vision:** Engineered zero-server client-side neural network inference using ONNX Runtime Web with WebGL/WASM acceleration (*Face Anti-Spoofing, sub-100ms latency*).
-- 🛠️ **High-Concurrency Systems & Databases:** Architected double-entry inventory ledgers with Redis distributed locks (*StockArt POS, 1,200+ RPS sustained throughput*), fintech escrow state machines (*Rekberin, Next.js 14, PostgreSQL, Midtrans QRIS*), and local-first offline storage (*TRASHURY, SQLite WASM*).
-- 📱 **Native Mobile Engineering:** Developed **[AEMADS](https://github.com/beambomb/AEMADS)**, an industrial Android application for real-time IoT power telemetry & anomaly detection utilizing Kotlin, Jetpack Compose, MVVM, and Supabase.
+- 🛠️ **Systems & Distributed Architecture:** Architected high-throughput double-entry inventory ledgers with Redis distributed locks (*StockArt POS, 1,200+ RPS sustained throughput*), fintech escrow state machines (*Rekberin, Next.js 14, PostgreSQL, Midtrans QRIS*), and local-first offline storage (*TRASHURY, SQLite WASM*).
+- 📱 **Mobile Development:** Built **[AEMADS](https://github.com/beambomb/AEMADS)**, an industrial Android application for real-time IoT power telemetry & anomaly detection utilizing Kotlin, Jetpack Compose, MVVM, and Supabase.
+
+---
+
+### ⚡ What I'm Focused On
+
+- 🔭 **Currently Building:** Hydrological early-warning ML models, spatial accessibility profilers, and resilient distributed backends.
+- 🔬 **Exploring & Experimenting:** Low-latency in-browser deep learning model quantization (ONNX / WebAssembly) and asynchronous state-machine workflows.
+- 💬 **Ask Me About:** Python, Time-Series ML (CatBoost, LightGBM), Geospatial Data (GeoPandas, Overpass QL), and Native Android (Kotlin, Jetpack Compose).
+- 🎯 **Engineering Goal:** Constructing reliable, mathematically grounded software solutions that solve tangible operational and environmental problems.
 
 ---
 
@@ -103,9 +112,9 @@
 
 | Project | Highlights & Engineering Scope | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **AEMADS** | Industrial Android electrical telemetry and predictive maintenance app with 4-shop visual heatmap alarms, 2s periodic REST polling resilience against plant firewalls, and in-app camera damage logging. | `Kotlin` `Jetpack Compose` `Supabase` `Android MVVM` | [Repo ↗](https://github.com/beambomb/AEMADS) |
-| **The 15-Minutes City Profiler** | Spatial urban analytics engine evaluating district compliance with 15-minute city criteria. Automated OSM Overpass POI extraction (45k+ nodes), custom K-Means clustering from scratch, and Shannon Entropy score. | `Python` `GeoPandas` `Shapely` `Scikit-Learn` | [Repo ↗](https://github.com/afiqchoiruzan/The-15-Minutes-City-Profiler) |
+| **The 15-Minutes City Profiler** | Spatial urban analytics engine auditing district compliance with 15-minute city criteria. Automated OSM Overpass POI extraction (45k+ nodes), custom K-Means clustering from scratch, and Shannon Entropy score. | `Python` `GeoPandas` `Shapely` `Scikit-Learn` | [Repo ↗](https://github.com/afiqchoiruzan/The-15-Minutes-City-Profiler) |
 | **Face Anti-Spoofing Edge Engine** | Zero-server client-side neural network inference detecting biometric presentation attacks (print, tablet screen replay) inside web browsers via ONNX Runtime Web with WebGL/WASM acceleration (<100ms latency). | `PyTorch` `ONNX Runtime Web` `WebGL` `FastAPI` | [Repo ↗](https://github.com/afiqchoiruzan/anti-spoofing) |
+| **AEMADS** | Industrial Android electrical telemetry and predictive maintenance app with 4-shop visual heatmap alarms, 2s periodic REST polling resilience against plant firewalls, and in-app camera damage logging. | `Kotlin` `Jetpack Compose` `Supabase` `Android MVVM` | [Repo ↗](https://github.com/beambomb/AEMADS) |
 | **Bengawan Solo Hydrological Forecasting** | Direct non-recursive time-series forecasting pipeline predicting water levels across 30 river stations for the Sebelas Maret Statistics Competition 2026 (RMSE 1.4466 vs. 2.08 baseline). | `CatBoost` `LightGBM` `HydroRIVERS` `Pandas` | [Repo ↗](https://github.com/afiqchoiruzan/prediksi-air-sungai-2026) |
 | **StockArt Backend** | High-concurrency POS & inventory backend with double-entry ledgers, atomic precondition updates, and Redis distributed locks (Redlock) sustaining 1,200+ RPS with zero negative stock anomalies. | `Node.js` `Express.js` `MongoDB ACID` `Redis` | [Repo ↗](https://github.com/afiqchoiruzan/stockart-backend) |
 | **Rekberin Escrow Platform** | Production-grade digital asset & game account escrow platform featuring a strict 5-stage FSM, automated Midtrans QRIS payment webhooks, and dispute mediation. | `Next.js 14` `PostgreSQL` `Prisma ORM` `TailwindCSS` | [Live Site ↗](https://rekberin.site) \| [Repo ↗](https://github.com/aufaanggara/rekberin) |
@@ -113,28 +122,36 @@
 
 ---
 
-### 🟩 Contribution & Activity
+### 📜 Selected Certifications & Programs
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/39d353/afiqchoiruzan" width="100%" alt="Afiq Choiruzan's Contribution Calendar" />
-</div>
+- 🔹 **Samsung Innovation Campus (SIC) Batch 7:** Stage 1 — Python Programming, Prompting & Applied AI *(SEIN/SIC/2025)*
+- 🔹 **DataCamp Deep Learning & Machine Learning:** Transformer Models with PyTorch *(Credential ID: #47,642,982)*, Deep Learning for Images & Text, Regression with statsmodels, Applied Statistics
+- 🔹 **KMTETI FT UGM Technical Trainings:** Pelatihan Data Science 2025 & Pelatihan Web Development II 2025
 
-<br/>
+---
+
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afiqchoiruzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Afiq Choiruzan GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiqchoiruzan&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 12px;">
-  <img src="https://streak-stats.demolab.com?user=afiqchoiruzan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 📬 Connect With Me
 
-- 🌐 **Live Website:** [afiqweb.vercel.app](https://afiqweb.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/muhammad-afiq-mirza-choiruzan/](https://www.linkedin.com/in/muhammad-afiq-mirza-choiruzan/)
-- 📧 **Direct Email:** [mirzach89@gmail.com](mailto:mirzach89@gmail.com) / [afiqmirza8@gmail.com](mailto:afiqmirza8@gmail.com)
-- 📁 **Google Drive Documents & Certifications:** [Browse Full Drive Folder](https://drive.google.com/drive/folders/1uiBDDcwjFm0DWVAZvZ-whTH7MPcSa5Q0?usp=sharing)
+<p align="center">
+  <a href="https://afiqweb.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-afiqweb.vercel.app-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Website" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-afiq-mirza-choiruzan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:mirzach89@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mirzach89@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1uiBDDcwjFm0DWVAZvZ-whTH7MPcSa5Q0?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Credentials-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Certificates" />
+  </a>
+</p>
